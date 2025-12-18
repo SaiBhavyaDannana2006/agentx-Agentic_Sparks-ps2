@@ -140,8 +140,3 @@ The project is built as a modern ESM-based React application and does not requir
 - **Coding Style:** Strictly follow the provided TypeScript types.
 - **Branching:** `main` is production; use `feature/*` for new worlds.
 - **Visuals:** All character evolution must be handled via CSS in `WorldVisualizer.tsx`.
-
----
-
-## 15. License
-Not licensed yet. Proprietary to StoryVerse Research Group.

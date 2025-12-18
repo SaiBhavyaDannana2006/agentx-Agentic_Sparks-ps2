@@ -1,0 +1,5 @@
+{
+  "name": "StoryVerse Observer",
+  "description": "A high-fidelity dashboard for observing AgentX, an autonomous RL agent, as it traverses five distinct conceptual worlds in the StoryVerse simulation.",
+  "requestFramePermissions": []
+}
